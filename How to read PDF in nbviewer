@@ -1,0 +1,5 @@
+How do I use Nbviewer on GitHub?
+Open https://nbviewer.jupyter.org/ and put URL of file in your repository in the textfield as shown. 
+Press Go button to view the notebook. 
+
+Both these methods display notebook file as static html. To be able to execute code in the notebook, open it using Binder application of Jupyter project.
